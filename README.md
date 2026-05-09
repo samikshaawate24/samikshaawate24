@@ -1,7 +1,7 @@
-# Hi 👋, I'm Samiksha Gajanan Awate
+# Hi 👋, I'm SamikshaAwate
 
 ## 🚀 About Me
-🎓 Diploma in Information Technology (IT)  
+🎓 Diploma in Information Technology (IT) at GRWP, Tasgaon
 📚 Currently pursuing B.Tech in CSE (Data Science) at DYPCET, Kasaba Bawada  
 💡 Interested in Web Development, Android Development using Flutter, and solving DSA problems  
 
