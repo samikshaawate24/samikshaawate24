@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Samiksha Gajanan Awate
 
-<!--
-**samikshaawate24/samikshaawate24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 Diploma in Information Technology (IT)  
+📚 Currently pursuing B.Tech in CSE (Data Science) at DYPCET, Kasaba Bawada  
+💡 Interested in Web Development, Android Development using Flutter, and solving DSA problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack & Skills
+- Python
+- Java
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+- Git
+- GitHub
+- Flutter
+- React (Learner)
+
+---
+
+## 🌱 Currently Learning
+- React.js
+- Advanced Web Development
+- Data Structures & Algorithms
+
+---
+
+## 🎯 Interests
+- Web Development
+- Android App Development
+- Problem Solving
+- UI Design
+
+---
+
+## 📫 Connect With Me
+- LinkedIn : https://www.linkedin.com/in/samikshaawate
+- GitHub : https://github.com/samikshaawate24
