@@ -9,11 +9,12 @@
 
 ## 💻 Tech Stack & Skills
 - Python
-- Java
+- CPP
 - HTML
 - CSS
 - Tailwind CSS
 - JavaScript
+- Java
 - Git
 - GitHub
 - Flutter
