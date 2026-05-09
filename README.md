@@ -1,4 +1,4 @@
-# Hi 👋, I'm SamikshaAwate
+# Hi 👋, I'm Samiksha Awate
 
 ## 🚀 About Me
 🎓 Diploma in Information Technology (IT) at GRWP, Tasgaon
